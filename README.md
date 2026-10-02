@@ -15,7 +15,7 @@ I'm a Junior Frontend Developer focused on building responsive and user-friendly
  
 - React eCommerce App
 - ToDo App with Local Storage
-- Product Search App
+- Library
  
 ## Contact
  
