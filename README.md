@@ -13,7 +13,7 @@ I'm a Junior Frontend Developer focused on building responsive and user-friendly
  
 ## Projects
  
-- React eCommerce App - 
+- React eCommerce App - https://github.com/sladjanabedic85/e-commerce
 - ToDo App with Local Storage - https://github.com/sladjanabedic85/simple-to-do
 - Library
  
